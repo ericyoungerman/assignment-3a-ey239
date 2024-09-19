@@ -7,10 +7,11 @@ navbar:
       href: eric.html
     - text: "Adam"
       href: adam.html 
-      output_dir: "."
+
+output_dir: "."
 output:
   html_document:
-    theme: cerulean
+    theme: superhero
     highlight: textmate
     toc: true 
     toc_float: true 
