@@ -11,7 +11,7 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: superhero
+    theme: cerulean
     highlight: textmate
     toc: true 
     toc_float: true 
