@@ -1,22 +1,20 @@
 ---
-title: "natashad"
-author: "Natasha Djuric"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    fig_caption: yes
+title: "Natasha Djuric"
+output: html_document
+  
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Organic Field Crops Research
+## About me
 
-[Natasha Djuric](https://github.com/natashadjuric-4) & [Eric Youngerman](https://github.com/ericyoungerman) 
-<br>
-<br> 
-![Perennial grains research](kernza.jpg){width="150px"} 
-<br>
-<br>
-![Soybean research](ericyoungerman.jpeg){width="150px"}
+- I am broadly interested in ecology and plant diversity, and how they can be applied to make organic and conventional agriculture more sustainable and resource efficient.
+
+- I have experience examining the influence of on-farm biodiversity in diversified vegetable and dairy farms through beetle banks and native meadows.
+
+-  I am currently leading a multi-institutional project investigating how to improve the yield and weed suppression of perennial grain cropping systems.
+
+![](/Users/ey239/Github/assignment-3a-ey239/cornellprofile_nd.jpg)
+
