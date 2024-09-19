@@ -13,8 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Nazir (Adam) Sharifi**: <https://github.com/nas258>
 
-**Natasha Djuric**:
-<https://github.com/Natashadjuric-4>
+**Natasha Djuric**: <https://github.com/Natashadjuric-4>
 
 
 ![The Sustainable Cropping Systems Lab at Cornell University](/Users/ey239/Github/assignment-3a-ey239/image1-1-edited.jpeg)
