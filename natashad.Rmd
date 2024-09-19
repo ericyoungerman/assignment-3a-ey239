@@ -1,0 +1,22 @@
+---
+title: "natashad"
+author: "Natasha Djuric"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    fig_caption: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Organic Field Crops Research
+
+[Natasha Djuric](https://github.com/natashadjuric-4) & [Eric Youngerman](https://github.com/ericyoungerman) 
+<br>
+<br> 
+![Perennial grains research](kernza.jpg){width="150px"} 
+<br>
+<br>
+![Soybean research](ericyoungerman.jpeg){width="150px"}
